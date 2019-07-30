@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BibopApp</string>
+    <string-array name="marcas">
+        <item>Brastemp</item>
+        <item>Consul</item>
+        <item>Electrolux</item>
+    </string-array>
+    <string name="title_activity_terceira_tela">TerceiraTela</string>
+</resources>
